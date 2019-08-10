@@ -1,2 +1,2 @@
 # pixycam2
-#tejas shingala
+#tejas
